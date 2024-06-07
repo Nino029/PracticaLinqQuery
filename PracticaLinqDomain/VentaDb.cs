@@ -4,7 +4,7 @@ namespace PracticaLinqDomain
 {
     public class VentaDb
     {
-        //
+        
         private readonly List<Sale> _sales;
 
         public VentaDb(List<Sale> sales)
